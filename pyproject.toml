@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "spark-streaming-using-x"
+version = "0.1.0"
+description = ""
+authors = ["Oveys Safarnejad <safarnejad@outlook.com>"]
+readme = "README.md"
+packages = [{include = "spark_streaming_using_x"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+tweepy = "3.10.0"
+python-dotenv = "^1.0.0"
+matplotlib = "^3.8.1"
+seaborn = "^0.13.0"
+pandas = "^2.1.3"
+requests = "2.25.0"
+jupyterlab = "3.0.0"
+twitter-stream-py = "0.7.3"
+
+[tool.poetry.group.dev.dependencies]
+pyspark = "^3.5.0"
+findspark = "^2.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
