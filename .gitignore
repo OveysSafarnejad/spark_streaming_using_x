@@ -1,9 +1,9 @@
-MyCheckPoint/
 .idea/
-spark/
 spark-3.5.0-bin-hadoop3/
+logs
+checkpoint
+spark-warehouse
 .env
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -127,7 +127,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -164,4 +163,3 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
-#.idea/
