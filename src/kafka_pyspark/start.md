@@ -5,7 +5,7 @@
     brew services start kafka
 
 # create kafka topic
-    kafka-topics --bootstrap-server localhost:9092 --topic --create [topic_name] --replication-factor [nOfReplications] --partitions [nOfPartitions]
+    kafka-topics --bootstrap-server localhost:9092 --create --topic  [topic_name] --replication-factor [nOfReplications] --partitions [nOfPartitions]
 
 # create a producer 
     kafka-console-producer --bootstrap-server localhost:9092 --topic [topic_name] 
