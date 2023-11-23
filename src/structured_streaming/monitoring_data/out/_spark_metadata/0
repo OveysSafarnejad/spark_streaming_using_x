@@ -1,0 +1,4 @@
+v1
+{"path":"file:///Users/audioworkstation/Documents/WORKSPACE/LEARNING/spark_streaming_using_x/src/structured_streaming/monitoring_data/out/part-00000-8388a135-8756-465f-89dd-63d6f80db2b9-c000.snappy.parquet","size":1053,"isDir":false,"modificationTime":1700753843504,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/audioworkstation/Documents/WORKSPACE/LEARNING/spark_streaming_using_x/src/structured_streaming/monitoring_data/out/part-00001-12ac86b9-13d1-407d-9277-3681292bd79a-c000.snappy.parquet","size":1026,"isDir":false,"modificationTime":1700753843504,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/audioworkstation/Documents/WORKSPACE/LEARNING/spark_streaming_using_x/src/structured_streaming/monitoring_data/out/part-00002-038d6f1d-9faa-49f6-ac79-c5455cf97b91-c000.snappy.parquet","size":1004,"isDir":false,"modificationTime":1700753843504,"blockReplication":1,"blockSize":33554432,"action":"add"}
