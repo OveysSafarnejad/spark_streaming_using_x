@@ -1,0 +1,4 @@
+v1
+{"path":"file:///Users/hso/Documents/WORKSPACE/LEARNING/spark_streaming_using_x/src/structured_streaming/monitoring_data/out/part-00000-bda512a0-c341-42dd-b9b8-d2e1f909474e-c000.snappy.parquet","size":1053,"isDir":false,"modificationTime":1711395633159,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/hso/Documents/WORKSPACE/LEARNING/spark_streaming_using_x/src/structured_streaming/monitoring_data/out/part-00001-8ce9d7ef-9658-41ed-9b19-041fc08f48fe-c000.snappy.parquet","size":1026,"isDir":false,"modificationTime":1711395633159,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/hso/Documents/WORKSPACE/LEARNING/spark_streaming_using_x/src/structured_streaming/monitoring_data/out/part-00002-9eace4ab-53c0-4f32-850e-13b3ae3b9ee3-c000.snappy.parquet","size":1004,"isDir":false,"modificationTime":1711395633159,"blockReplication":1,"blockSize":33554432,"action":"add"}

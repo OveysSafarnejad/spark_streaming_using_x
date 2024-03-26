@@ -1,0 +1,4 @@
+v1
+{"path":"file:///Users/audioworkstation/Documents/WORKSPACE/LEARNING/spark_streaming_using_x/src/structured_streaming/monitoring_data/2.csv","timestamp":1700753712532,"batchId":0}
+{"path":"file:///Users/audioworkstation/Documents/WORKSPACE/LEARNING/spark_streaming_using_x/src/structured_streaming/monitoring_data/3.csv","timestamp":1700753712544,"batchId":0}
+{"path":"file:///Users/audioworkstation/Documents/WORKSPACE/LEARNING/spark_streaming_using_x/src/structured_streaming/monitoring_data/1.csv","timestamp":1700753712545,"batchId":0}
