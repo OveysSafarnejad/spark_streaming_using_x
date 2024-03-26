@@ -163,3 +163,21 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+/src/DStream_transform/MyCheckPoint/receivedBlockMetadata/log-1711458180169-1711458240169
+/src/DStream_transform/MyCheckPoint/receivedBlockMetadata/log-1711458271745-1711458331745
+/src/DStream_transform/MyCheckPoint/.checkpoint-1711458180000.bk.crc
+/src/DStream_transform/MyCheckPoint/.checkpoint-1711458180000.crc
+/src/DStream_transform/MyCheckPoint/.checkpoint-1711458210000.bk.crc
+/src/DStream_transform/MyCheckPoint/.checkpoint-1711458210000.crc
+/src/DStream_transform/MyCheckPoint/.checkpoint-1711458240000.bk.crc
+/src/DStream_transform/MyCheckPoint/.checkpoint-1711458240000.crc
+/src/DStream_transform/MyCheckPoint/.checkpoint-1711458270000.bk.crc
+/src/DStream_transform/MyCheckPoint/.checkpoint-1711458270000.crc
+/src/DStream_transform/MyCheckPoint/checkpoint-1711458180000
+/src/DStream_transform/MyCheckPoint/checkpoint-1711458180000.bk
+/src/DStream_transform/MyCheckPoint/checkpoint-1711458210000
+/src/DStream_transform/MyCheckPoint/checkpoint-1711458210000.bk
+/src/DStream_transform/MyCheckPoint/checkpoint-1711458240000
+/src/DStream_transform/MyCheckPoint/checkpoint-1711458240000.bk
+/src/DStream_transform/MyCheckPoint/checkpoint-1711458270000
+/src/DStream_transform/MyCheckPoint/checkpoint-1711458270000.bk
