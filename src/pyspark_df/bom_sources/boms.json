@@ -1,0 +1,222 @@
+[
+    {
+        "Part_Num": 12312312,
+        "Product_Name": "'sdadasd'",
+        "Product_Description": "'sadas asdsad asdas'",
+        "Quantity": 12,
+        "EOL_Date": "01-2026",
+        "Unit_Price": 123,
+        "Manufacturer": "'company 1'",
+        "Availability": 1,
+        "Random_Column": 0.1321
+    },
+    {
+        "Part_Num": 45645645,
+        "Product_Name": "'qwerty'",
+        "Product_Description": "'Lorem ipsum dolor sit amet'",
+        "Quantity": 30,
+        "EOL_Date": "06-2025",
+        "Unit_Price": 89,
+        "Manufacturer": "'company 2'",
+        "Availability": 1,
+        "Random_Column": 0.4621
+    },
+    {
+        "Part_Num": 78978978,
+        "Product_Name": "'foobar'",
+        "Product_Description": "'Consectetur adipiscing elit'",
+        "Quantity": 25,
+        "EOL_Date": "09-2027",
+        "Unit_Price": 55,
+        "Manufacturer": "'company 3'",
+        "Availability": 0,
+        "Random_Column": 0.8965
+    },
+    {
+        "Part_Num": 10101010,
+        "Product_Name": "'xyz'",
+        "Product_Description": "'Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua'",
+        "Quantity": 18,
+        "EOL_Date": "04-2024",
+        "Unit_Price": 72,
+        "Manufacturer": "'company 4'",
+        "Availability": 1,
+        "Random_Column": 0.7845
+    },
+    {
+        "Part_Num": 11111111,
+        "Product_Name": "'abcdef'",
+        "Product_Description": "'Ut enim ad minim veniam'",
+        "Quantity": 40,
+        "EOL_Date": "12-2026",
+        "Unit_Price": 105,
+        "Manufacturer": "'company 5'",
+        "Availability": 1,
+        "Random_Column": 0.9812
+    },
+    {
+        "Part_Num": 12312312,
+        "Product_Name": "'sdadasd'",
+        "Product_Description": "'sadas asdsad asdas'",
+        "Quantity": 12,
+        "EOL_Date": "01-2026",
+        "Unit_Price": 123,
+        "Manufacturer": "'company 1'",
+        "Availability": 1,
+        "Random_Column": 0.6234
+    },
+    {
+        "Part_Num": 13131313,
+        "Product_Name": "'mnopqr'",
+        "Product_Description": "'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur'",
+        "Quantity": 15,
+        "EOL_Date": "08-2023",
+        "Unit_Price": 80,
+        "Manufacturer": "'company 7'",
+        "Availability": 1,
+        "Random_Column": 0.7412
+    },
+    {
+        "Part_Num": 14141414,
+        "Product_Name": "'stuvwx'",
+        "Product_Description": "'Excepteur sint occaecat cupidatat non proident'",
+        "Quantity": 35,
+        "EOL_Date": "07-2026",
+        "Unit_Price": 67,
+        "Manufacturer": "'company 8'",
+        "Availability": 1,
+        "Random_Column": 0.4523
+    },
+    {
+        "Part_Num": 15151515,
+        "Product_Name": "'yzabcdef'",
+        "Product_Description": "'Sunt in culpa qui officia deserunt mollit anim id est laborum'",
+        "Quantity": 22,
+        "EOL_Date": "11-2025",
+        "Unit_Price": 120,
+        "Manufacturer": "'company 9'",
+        "Availability": 1,
+        "Random_Column": 0.5421
+    },
+    {
+        "Part_Num": 16161616,
+        "Product_Name": "'ghijklmnop'",
+        "Product_Description": "'Lorem ipsum dolor sit amet'",
+        "Quantity": 28,
+        "EOL_Date": "02-2026",
+        "Unit_Price": 85,
+        "Manufacturer": "'company 10'",
+        "Availability": 1,
+        "Random_Column": 0.3021
+    },
+    {
+        "Part_Num": 17171717,
+        "Product_Name": "'qrstuv'",
+        "Product_Description": "'Consectetur adipiscing elit'",
+        "Quantity": 32,
+        "EOL_Date": "10-2027",
+        "Unit_Price": 60,
+        "Manufacturer": "'company 11'",
+        "Availability": 0,
+        "Random_Column": 0.9214
+    },
+    {
+        "Part_Num": 18181818,
+        "Product_Name": "'wxyz'",
+        "Product_Description": "'Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua'",
+        "Quantity": 19,
+        "EOL_Date": "05-2024",
+        "Unit_Price": 75,
+        "Manufacturer": "'company 12'",
+        "Availability": 1,
+        "Random_Column": 0.6239
+    },
+    {
+        "Part_Num": 19191919,
+        "Product_Name": "'123456'",
+        "Product_Description": "'Ut enim ad minim veniam'",
+        "Quantity": 45,
+        "EOL_Date": "01-2028",
+        "Unit_Price": 110,
+        "Manufacturer": "'company 13'",
+        "Availability": 1,
+        "Random_Column": 0.7842
+    },
+    {
+        "Part_Num": 20202020,
+        "Product_Name": "'789012'",
+        "Product_Description": "'Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat'",
+        "Quantity": 24,
+        "EOL_Date": "09-2025",
+        "Unit_Price": 100,
+        "Manufacturer": "'company 14'",
+        "Availability": 1,
+        "Random_Column": 0.1568
+    },
+    {
+        "Part_Num": 21212121,
+        "Product_Name": "'345678'",
+        "Product_Description": "'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur'",
+        "Quantity": 17,
+        "EOL_Date": "06-2023",
+        "Unit_Price": 90,
+        "Manufacturer": "'company 15'",
+        "Availability": 1,
+        "Random_Column": 0.4512
+    },
+    {
+        "Part_Num": 22222222,
+        "Product_Name": "'901234'",
+        "Product_Description": "'Excepteur sint occaecat cupidatat non proident'",
+        "Quantity": 38,
+        "EOL_Date": "08-2026",
+        "Unit_Price": 65,
+        "Manufacturer": "'company 16'",
+        "Availability": 1,
+        "Random_Column": 0.7845
+    },
+    {
+        "Part_Num": 23232323,
+        "Product_Name": "'567890'",
+        "Product_Description": "'Sunt in culpa qui officia deserunt mollit anim id est laborum'",
+        "Quantity": 21,
+        "EOL_Date": "04-2025",
+        "Unit_Price": 115,
+        "Manufacturer": "'company 17'",
+        "Availability": 1,
+        "Random_Column": 0.6213
+    },
+    {
+        "Part_Num": 24242424,
+        "Product_Name": "'012345'",
+        "Product_Description": "'Lorem ipsum dolor sit amet'",
+        "Quantity": 29,
+        "EOL_Date": "12-2025",
+        "Unit_Price": 82,
+        "Manufacturer": "'company 18'",
+        "Availability": 1,
+        "Random_Column": 0.1245
+    },
+    {
+        "Part_Num": 25252525,
+        "Product_Name": "'678901'",
+        "Product_Description": "'Consectetur adipiscing elit'",
+        "Quantity": 33,
+        "EOL_Date": "03-2027",
+        "Unit_Price": 57,
+        "Manufacturer": "'company 19'",
+        "Availability": 0,
+        "Random_Column": 0.9521
+    },
+    {
+        "Part_Num": 26262626,
+        "Product_Name": "'234567'",
+        "Product_Description": "'Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua'",
+        "Quantity": 16,
+        "EOL_Date": "11-2024",
+        "Unit_Price": 77,
+        "Manufacturer": "'company 20'",
+        "Availability": 1,
+        "Random_Column": 0.7854
+    }
+]

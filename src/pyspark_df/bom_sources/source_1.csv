@@ -1,0 +1,45 @@
+Part_Number,Name,Description,Quantity,EOL,Unit_Price,Manufacturer,avail
+12312312,'sdadasd','sadas asdsad asdas',12,01-2026,123,'company 1',1
+45645645,'qwerty','Lorem ipsum dolor sit amet',30,06-2025,89,'company 2',1
+78978978,'foobar','Consectetur adipiscing elit',25,09-2027,55,'company 3',0
+10101010,'xyz','Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',18,04-2024,72,'company 4',1
+11111111,'abcdef','Ut enim ad minim veniam',40,12-2026,105,'company 5',1
+12121212,'ghijkl','Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat',20,03-2025,95,'company 6',1
+13131313,'mnopqr','Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur',15,08-2023,80,'company 7',1
+14141414,'stuvwx','Excepteur sint occaecat cupidatat non proident',35,07-2026,67,'company 8',1
+15151515,'yzabcdef','Sunt in culpa qui officia deserunt mollit anim id est laborum',22,11-2025,120,'company 9',1
+16161616,'ghijklmnop','Lorem ipsum dolor sit amet',28,02-2026,85,'company 10',1
+17171717,'qrstuv','Consectetur adipiscing elit',32,10-2027,60,'company 11',0
+18181818,'wxyz','Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',19,05-2024,75,'company 12',1
+19191919,'123456','Ut enim ad minim veniam',45,01-2028,110,'company 13',1
+20202020,'789012','Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat',24,09-2025,100,'company 14',1
+21212121,'345678','Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur',17,06-2023,90,'company 15',1
+22222222,'901234','Excepteur sint occaecat cupidatat non proident',38,08-2026,65,'company 16',1
+23232323,'567890','Sunt in culpa qui officia deserunt mollit anim id est laborum',21,04-2025,115,'company 17',1
+24242424,'012345','Lorem ipsum dolor sit amet',29,12-2025,82,'company 18',1
+25252525,'678901','Consectetur adipiscing elit',33,03-2027,57,'company 19',0
+26262626,'234567','Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',16,11-2024,77,'company 20',1
+27272727,'890123','Ut enim ad minim veniam',42,07-2028,125,'company 1',1
+28282828,'456789','Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat',23,05-2025,105,'company 2',1
+29292929,'012345','Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur',14,01-2023,87,'company 3',1
+30303030,'678901','Excepteur sint occaecat cupidatat non proident',36,10-2026,62,'company 4',1
+31313131,'234567','Sunt in culpa qui officia deserunt mollit anim id est laborum',25,02-2025,120,'company 5',1
+32323232,'890123','Lorem ipsum dolor sit amet',31,12-2026,85,'company 6',1
+33333333,'456789','Consectetur adipiscing elit',34,07-2027,60,'company 7',0
+34343434,'012345','Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',18,04-2024,75,'company 8',1
+35353535,'678901','Ut enim ad minim veniam',40,01-2029,110,'company 9',1
+36363636,'234567','Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat',19,09-2025,100,'company 10',1
+37373737,'890123','Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur',45,06-2023,90,'company 11',1
+38383838,'456789','Excepteur sint occaecat cupidatat non proident',24,08-2026,65,'company 12',1
+39393939,'012345','Sunt in culpa qui officia deserunt mollit anim id est laborum',28,04-2025,115,'company 13',1
+40404040,'678901','Lorem ipsum dolor sit amet',32,12-2025,82,'company 14',1
+41414141,'234567','Consectetur adipiscing elit',22,03-2027,57,'company 15',0
+42424242,'890123','Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',16,11-2024,77,'company 16',1
+43434343,'456789','Ut enim ad minim veniam',42,07-2028,125,'company 17',1
+44444444,'012345','Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat',23,05-2025,105,'company 18',1
+45454545,'678901','Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur',14,01-2023,87,'company 19',1
+46464646,'234567','Excepteur sint occaecat cupidatat non proident',36,10-2026,62,'company 20',1
+47474747,'890123','Sunt in culpa qui officia deserunt mollit anim id est laborum',25,02-2025,120,'company 1',1
+48484848,'456789','Lorem ipsum dolor sit amet',31,12-2026,85,'company 2',1
+49494949,'012345','Consectetur adipiscing elit',34,07-2027,60,'company 3',0
+50505050,'678901','Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',18,
